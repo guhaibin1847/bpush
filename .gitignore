@@ -1,0 +1,10 @@
+**/target/
+**/.idea/
+**/attachments/
+**/classes/
+**/lib/
+**/out/
+.DS_Store
+*.iml
+**/node_modules/
+**/dist/
